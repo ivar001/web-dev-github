@@ -1,1 +1,3 @@
 first experience with git
+
+first commit done and this is #2
